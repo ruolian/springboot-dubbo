@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.ImportResource;
 
 /**
- * Created by wzp on 15/11/22.
+ * Created by lxn on 15/11/22.
  */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.dubbo.service.business")
