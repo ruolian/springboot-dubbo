@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by wzp on 16/11/14.
+ * Created by xiaona on 16/11/14.
  */
 @RestController
 @Slf4j
