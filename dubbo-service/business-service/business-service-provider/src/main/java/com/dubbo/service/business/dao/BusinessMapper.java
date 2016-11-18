@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 
 /**
- * Created by wzp on 16/11/4.
+ * Created by lxn on 16/11/4.
  */
 @Mapper
 @CacheNamespace
